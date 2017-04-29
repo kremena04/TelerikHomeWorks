@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assertions", "Assertions\Assertions.csproj", "{8057F2E3-25C4-4B7C-8ECD-3B141CD4A93A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandling", "ExceptionHandling\ExceptionHandling.csproj", "{6F7BACCB-2BF8-4453-A75E-445EE7640906}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8057F2E3-25C4-4B7C-8ECD-3B141CD4A93A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8057F2E3-25C4-4B7C-8ECD-3B141CD4A93A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8057F2E3-25C4-4B7C-8ECD-3B141CD4A93A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8057F2E3-25C4-4B7C-8ECD-3B141CD4A93A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F7BACCB-2BF8-4453-A75E-445EE7640906}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F7BACCB-2BF8-4453-A75E-445EE7640906}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F7BACCB-2BF8-4453-A75E-445EE7640906}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F7BACCB-2BF8-4453-A75E-445EE7640906}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
